@@ -1,14 +1,14 @@
 # kenaflowPNP.SMS
 
-# How to send an SMS with sms77.io
-
-It´s quite easy to send an SMS with the business gateway of sms77
-
 [Link to sms77](https://www.sms77.io)
 
 [Link to documentation of kenaflow](https://doc.kenaflow.com)
 
 [Video tutorial at Youtube](https://www.youtube.com/watch?v=H1nt10fP4QE)
+
+# How to send an SMS with sms77.io
+
+It´s quite easy to send an SMS with the business gateway of sms77
 
 This is the request with PowerShell only.
 
